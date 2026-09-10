@@ -10,7 +10,7 @@ Probably not.
 
 ## How do I deploy it?
 
-For AntiWS: 
+For AntiWS:
 
 - White files -> ServerScriptService
 - Blue files -> StarterPlayerScripts
@@ -28,8 +28,8 @@ For PullACL:
 
 ## Images
 
-<img width="283" height="106" alt="image" src="https://github.com/user-attachments/assets/f7d18cf5-c437-44fc-9dd1-faea89cce17d" />
-<img width="225" height="105" alt="image" src="https://github.com/user-attachments/assets/a98ba90e-4edc-4e66-b088-520c5616f887" />
+![PullACL Folder Layout](https://github.com/user-attachments/assets/f7d18cf5-c437-44fc-9dd1-faea89cce17d)
+![AntiWS Folder Layout](https://github.com/user-attachments/assets/a98ba90e-4edc-4e66-b088-520c5616f887)
 
 ## License
 
