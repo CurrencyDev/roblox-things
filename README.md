@@ -16,14 +16,14 @@ For AntiWS:
 - Blue files -> StarterPlayerScripts
 - Purple/puzzle piece -> ReplicatedStorage
 
-> [!WARNING]
+> [!CAUTION]
 > For AntiWS, follow the configuration format inside the scripts to add or modify whitelisted users. Do not attempt to format the configuration any other way, it will break and fail to parse.
 
 For PullACL:
 
 - Follow the attached image.
 
-> [!WARNING]
+> [!NOTE]
 > PullACL currently only works with the new revised Relcot RMP's. Other models will not work as of now.
 
 ## Images
