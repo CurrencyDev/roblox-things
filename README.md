@@ -33,4 +33,4 @@ For PullACL:
 
 ## License
 
-This repository, and all files attached within, are licensed under the GNU Affero General Public license. Version 3 or later.
+This repository and all assets are licensed under AGPLv3. See [LICENSE](./LICENSE) for details.
